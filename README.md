@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Neha Varadharajan!
 
-<!--
-**nayhav/nayhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on building: 
+    ⚡ A facial recognition pipeline
+    ⚡ A shell in C
+    ⚡ A CHIP-8 emulator
+  
+- 🌱 I’m currently learning:
+    💬 Low level and systems programming
+    💬 Machine learning/deep learning fundamentals
+    💬 Web development
+    💬 Algorithmic problem solving
+
