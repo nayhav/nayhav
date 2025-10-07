@@ -1,4 +1,4 @@
-### ![Header](./github-header-banner (1).png)
+### Hey, I'm *Neha Varadharajan*!
 * 🔭 I’m currently a **Computer Science (AI & ML) student** at **MIT Manipal** and **Junior AI and Research Member @ Cryptonite**
 * 🌱 I’m currently learning **ML/DL, NLP, low-level programming and web development**
 * 🤝 Other than that, I love *math, music, poetry, blueberry cheesecakes*
