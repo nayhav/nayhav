@@ -1,5 +1,5 @@
 <img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/a6debb78-e5c8-4ca2-af2d-39674e5c8131" />
-###
+### 
 * 👩 Pronouns: she/her
 * 🔭 I’m currently a **Computer Science (AI & ML) student** at **MIT Manipal** and **Junior AI and Research Member @ Cryptonite**
 * 🌱 I’m currently learning **ML/DL, NLP, low-level programming and web development**
