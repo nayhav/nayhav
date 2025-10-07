@@ -1,7 +1,7 @@
 ### Hi there!
 * 👂 My name is Neha Varadharajan (nayhav is the alias)
 * 👩 Pronouns: she/her
-* 🔭 I’m currently a **Computer Science (AI & ML) second-year student** at **MIT Manipal**, **Junior AI Research Member @ Cryptonite**, and *tech enthusiast*
+* 🔭 I’m currently a **Computer Science (AI & ML) second-year student** at **MIT Manipal**, **Junior AI and Research Member @ Cryptonite**
 * 🌱 I’m currently learning **ML/DL, NLP, low-level programming and web development**
 * ❤️ I love *math, music, poetry, blueberry cheesecakes*
 * 👂 Actively exploring stuff in **computer science and technology**
