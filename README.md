@@ -1,10 +1,11 @@
 <img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/a6debb78-e5c8-4ca2-af2d-39674e5c8131" />
 ### 
-* 👩 Pronouns: she/her
+### Hi there 👋.
 * 🔭 I’m currently a **Computer Science (AI & ML) student** at **MIT Manipal** and **Junior AI and Research Member @ Cryptonite**
 * 🌱 I’m currently learning **ML/DL, NLP, low-level programming and web development**
-* ❤️ Other than that, I love *math, music, poetry, blueberry cheesecakes*
-* 👂 Actively exploring stuff in **computer science and technology**
+* 🤝 Other than that, I love *math, music, poetry, blueberry cheesecakes*
+* 🤔 Actively exploring stuff in **computer science and technology**
+
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
