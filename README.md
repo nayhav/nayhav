@@ -1,4 +1,4 @@
-### Hi there 👋. ![Header](./github-header-banner.png)
+### ![Header](./github-header-banner.png)
 * 🔭 I’m currently a **Computer Science (AI & ML) student** at **MIT Manipal** and **Junior AI and Research Member @ Cryptonite**
 * 🌱 I’m currently learning **ML/DL, NLP, low-level programming and web development**
 * 🤝 Other than that, I love *math, music, poetry, blueberry cheesecakes*
