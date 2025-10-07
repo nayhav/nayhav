@@ -1,5 +1,1 @@
-Hey, I'm Neha!☀️
--Computer Science and Engineering (Artificial Intelligence and Machine Learning) at MIT Manipal
--AI Research Junior Team Member @ Cryptonite specializing in Natural Language Processing
-
-Interested in ML/DL, low level programming, webdev 👩‍💻
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/86159c4e-92d7-498e-b726-83ab281b2a5a" />
