@@ -1,7 +1,7 @@
 ### Hey, I'm **Neha Varadharajan**!
-* 🔭 I’m currently a **Computer Science (AI & ML) student** at **MIT Manipal** and **Junior AI and Research Member @ Cryptonite**
-* 🌱 I’m currently learning **ML/DL, NLP, low-level programming and web development**
-* 🤔 Actively exploring stuff in **computer science and technology**
+*  I’m currently a **Computer Science (AI & ML) student** at **MIT Manipal** and **Junior AI and Research Member @ Cryptonite**
+*  I’m currently learning **ML/DL, NLP, algorithmic problem solving, and computer systems**
+*  Actively exploring stuff in **computer science and technology**
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
