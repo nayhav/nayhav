@@ -1,6 +1,6 @@
-### Hey, I'm **Neha Varadharajan**!
-*  I’m currently a **Computer Science (AI & ML) student** at **MIT Manipal** and **Junior AI and Research Member @ Cryptonite**
-*  I’m currently learning **ML/DL, NLP, algorithmic problem solving, and computer systems**
+
+*  **Computer Science (AI & ML) student** at **MIT Manipal** and **Junior AI and Research Member @ Cryptonite**
+*  Learning **ML/DL, NLP, algorithmic problem solving, and computer systems**
 *  Actively exploring stuff in **computer science and technology**
 
 
