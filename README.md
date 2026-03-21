@@ -1,6 +1,8 @@
 
 **computer science (ai/ml)** student @  mit manipal, and **ai/research senior member** @ cryptonite
+
 learning **ai/ml/nlp, programming, development**
+
 actively exploring stuff in **computer science and technology**
 
 
