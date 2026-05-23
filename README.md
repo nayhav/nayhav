@@ -1,9 +1,12 @@
-## neha varadharajan
+cs student (class of 2028) @ Manipal Institute of Technology
+senior ai researcher @ Cryptonite
 
-i'm a computer science student (class of 2028) @ mit manipal & senior ai researcher @ cryptonite.
+working on:
 
-
-i’m currently working on machine (learning + unlearning) and natural language processing. i'm also learning algorithmic problem solving and more about how systems work.
+machine learning + unlearning
+natural language processing
+algorithmic problem solving
+systems + infrastructure
 
 
 
