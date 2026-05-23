@@ -3,13 +3,13 @@ senior ai researcher @ Cryptonite
 
 working on:
 
-machine learning + unlearning
+- machine learning + unlearning
 
-natural language processing
+- natural language processing
 
-algorithmic problem solving
+- algorithmic problem solving
 
-systems + infrastructure
+- systems + infrastructure
 
 
 
