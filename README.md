@@ -1,4 +1,5 @@
 cs student (class of 2028) @ Manipal Institute of Technology
+
 senior ai researcher @ Cryptonite
 
 working on:
