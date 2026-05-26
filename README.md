@@ -1,11 +1,7 @@
+𝚌𝚜 @ 𝙼𝙸𝚃 𝙼𝚊𝚗𝚒𝚙𝚊𝚕
+𝚊𝚒 & 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑 @ 𝙲𝚛𝚢𝚙𝚝𝚘𝚗𝚒𝚝𝚎
 
-cs @ mit manipal; ai & research @ cryptonite
-
-ml, software, systems
-
-
-
-
+𝚖𝚕, 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎, 𝚜𝚢𝚜𝚝𝚎𝚖𝚜
 
 
 
