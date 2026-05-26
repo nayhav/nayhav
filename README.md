@@ -1,9 +1,9 @@
-𝚌𝚜 @ 𝙼𝙸𝚃 𝙼𝚊𝚗𝚒𝚙𝚊𝚕
+```console
+neha@github:~$ whoami
+cs @ MIT Manipal
 
-𝚊𝚒 & 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑 @ 𝙲𝚛𝚢𝚙𝚝𝚘𝚗𝚒𝚝𝚎
-
-𝚖𝚕, 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎, 𝚜𝚢𝚜𝚝𝚎𝚖𝚜
-
+neha@github:~$ interests
+ml, software, systems
 
 
 
