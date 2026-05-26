@@ -1,16 +1,8 @@
-cs student (class of 2028) @ Manipal Institute of Technology
 
-senior ai researcher @ Cryptonite
+cs @ mit manipal; 
+ai & research @ cryptonite
 
-working on:
-
-- machine learning + unlearning
-
-- natural language processing
-
-- algorithmic problem solving
-
-- systems + infrastructure
+ml, software, systems
 
 
 
