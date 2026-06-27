@@ -1,20 +1,16 @@
+````md
 <div align="center">
 
 ```console
-neha@github:~$ whoami
-cs @ MIT Manipal
-ai & research @ Cryptonite
+$ whoami
+cs @ MIT Manipal | ai & research @ Cryptonite
 
-neha@github:~$ currently
-reproducing ml papers
-pursuing nlp research
-building a c compiler
-...and doing a lot of tinkering
+$ currently
+reproducing ml papers • researching nlp • building a c compiler
 
-neha@github:~$ interests
-deep learning
-software
-systems
+$ interests
+deep learning • software • systems
 ```
 
 </div>
+````
