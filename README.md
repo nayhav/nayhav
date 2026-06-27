@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 ```console
@@ -13,4 +12,4 @@ deep learning • software • systems
 ```
 
 </div>
-````
+
