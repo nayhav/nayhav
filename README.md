@@ -5,8 +5,9 @@ ai & research @ Cryptonite
 
 neha@github:~$ currently
 reproducing ml papers
-researching nlp
+pursuing nlp research
 building a c compiler
+..and a lot of tinkering
 
 neha@github:~$ interests
 deep learning
