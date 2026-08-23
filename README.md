@@ -1,15 +1,6 @@
-<div align="center">
+cs @ mit manipal · ai & research @ cryptonite
 
-```console
-$ whoami
-cs @ MIT Manipal | ai & research @ Cryptonite
+ml research · nlp · compilers  
+deep learning · software · systems
 
-$ currently
-reproducing ml papers • researching nlp • building a c compiler
-
-$ interests
-deep learning • software • systems
-```
-
-</div>
-
+[github](https://github.com/nayhav) · [linkedin](YOUR_LINKEDIN) · [email](mailto:YOUR_EMAIL)
