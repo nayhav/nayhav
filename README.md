@@ -4,13 +4,13 @@
 cs @ mit manipal · ai & research @ cryptonite
 </s>
 
-<br><br>
+<br>
 
 <samp>
 ml systems & inference · nlp · software engineering
 </s>
 
-<br><br>
+<br>
 
 <a href="https://github.com/nayhav">github</a>
 &nbsp;·&nbsp;
