@@ -4,12 +4,12 @@
 cs @ mit manipal · ai & research @ cryptonite
 </s>
 
-<br>
+<br><br>
 
 <samp>
-ml research · nlp · compilers
+ml systems · inference optimization · llm inference
 <br>
-deep learning · ml systems · software · systems
+nlp applications · theoretical ml · software engineering
 </s>
 
 <br><br>
