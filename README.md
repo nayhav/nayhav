@@ -15,31 +15,6 @@ currently exploring **ml inference optimization, llm inference, nlp applications
 
 </div>
 
-## interests
-
-<samp>
-
-ml systems & inference  
-→ inference optimization · llm serving · efficient model execution
-
-natural language processing  
-→ nlp applications · retrieval · language models
-
-software engineering  
-→ systems · backend infrastructure · performance-oriented software
-
-</samp>
-
-## currently
-
-<samp>
-
-reproducing and studying ml research papers  
-working on nlp and retrieval-based systems  
-building a c compiler from scratch  
-exploring the intersection of ml and systems
-
-</samp>
 
 <div align="center">
 
