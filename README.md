@@ -1,6 +1,23 @@
+<div align="center">
+
+<samp>
 cs @ mit manipal · ai & research @ cryptonite
+</s>
 
-ml research · nlp · compilers  
-deep learning · software · systems
+<br>
 
-[github](https://github.com/nayhav) · [linkedin](YOUR_LINKEDIN) · [email](mailto:YOUR_EMAIL)
+<samp>
+ml research · nlp · compilers
+<br>
+deep learning · ml systems · software · systems
+</s>
+
+<br><br>
+
+<a href="https://github.com/nayhav">github</a>
+&nbsp;·&nbsp;
+<a href="YOUR_LINKEDIN">linkedin</a>
+&nbsp;·&nbsp;
+<a href="mailto:YOUR_EMAIL">email</a>
+
+</div>
