@@ -7,9 +7,7 @@ cs @ mit manipal · ai & research @ cryptonite
 <br><br>
 
 <samp>
-ml systems · inference optimization · llm inference
-<br>
-nlp applications · theoretical ml · software engineering
+ml systems & inference · nlp · software engineering
 </s>
 
 <br><br>
