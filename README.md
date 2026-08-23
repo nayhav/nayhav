@@ -1,22 +1,54 @@
+<div align="center">
+
+<samp>
+
 # Neha Varadharajan
 
-Computer Science undergraduate @ **MIT Manipal** and **AI & Research @ Cryptonite**, interested in building and understanding machine learning systems.
+computer science undergraduate @ **mit manipal**  
+ai & research @ **cryptonite**
 
-Currently exploring **ML inference optimization, LLM inference, NLP applications, and systems-oriented machine learning**, while also working on software engineering projects and research.
+interested in building and understanding **machine learning systems**.
 
-## Interests
+currently exploring **ml inference optimization, llm inference, nlp applications, and systems-oriented machine learning**, while also working on software engineering projects and research.
 
-- **ML Systems & Inference** — inference optimization, LLM serving, efficient model execution
-- **Natural Language Processing** — NLP applications, retrieval, language models
-- **Software Engineering** — systems, backend infrastructure, performance-oriented software
+</samp>
 
-## Currently
+</div>
 
-- Reproducing and studying ML research papers
-- Working on NLP and retrieval-based systems
-- Building a C compiler from scratch
-- Exploring the intersection of ML and systems
+## interests
 
-## Links
+<samp>
 
-[linkedin](https://www.linkedin.com/in/neha-varadharajan-2842a72a6/) · [email](mailto:nehavaradharajan11@gmail.com)
+ml systems & inference  
+→ inference optimization · llm serving · efficient model execution
+
+natural language processing  
+→ nlp applications · retrieval · language models
+
+software engineering  
+→ systems · backend infrastructure · performance-oriented software
+
+</samp>
+
+## currently
+
+<samp>
+
+reproducing and studying ml research papers  
+working on nlp and retrieval-based systems  
+building a c compiler from scratch  
+exploring the intersection of ml and systems
+
+</samp>
+
+<div align="center">
+
+<samp>
+
+<a href="https://www.linkedin.com/in/neha-varadharajan-2842a72a6/">linkedin</a>
+&nbsp;·&nbsp;
+<a href="mailto:nehavaradharajan11@gmail.com">email</a>
+
+</samp>
+
+</div>
