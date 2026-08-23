@@ -2,7 +2,7 @@
 
 <samp>
 
-# Neha Varadharajan
+# Neha Varadharajan (`nayhav`)
 
 computer science undergraduate @ **mit manipal**  
 ai & research @ **cryptonite**
