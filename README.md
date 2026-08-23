@@ -11,10 +11,8 @@ ml systems & inference · nlp · software engineering
 
 <br><br>
 
-<a href="https://github.com/nayhav">github</a>
+<a href="https://www.linkedin.com/in/neha-varadharajan-2842a72a6/">linkedin</a>
 &nbsp;·&nbsp;
-<a href="YOUR_LINKEDIN">linkedin</a>
-&nbsp;·&nbsp;
-<a href="mailto:YOUR_EMAIL">email</a>
+<a href="nehavaradharajan11@gmail.com">email</a>
 
 </div>
