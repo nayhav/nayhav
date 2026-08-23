@@ -1,18 +1,22 @@
-<div align="center">
+# Neha Varadharajan
 
-<samp>
-cs @ mit manipal · ai & research @ cryptonite
-</s>
+Computer Science undergraduate @ **MIT Manipal** and **AI & Research @ Cryptonite**, interested in building and understanding machine learning systems.
 
-<br>
-<samp>
-ml systems & inference · nlp · software engineering
-</s>
+Currently exploring **ML inference optimization, LLM inference, NLP applications, and systems-oriented machine learning**, while also working on software engineering projects and research.
 
-<br><br>
+## Interests
 
-<a href="https://www.linkedin.com/in/neha-varadharajan-2842a72a6/">linkedin</a>
-&nbsp;·&nbsp;
-<a href="nehavaradharajan11@gmail.com">email</a>
+- **ML Systems & Inference** — inference optimization, LLM serving, efficient model execution
+- **Natural Language Processing** — NLP applications, retrieval, language models
+- **Software Engineering** — systems, backend infrastructure, performance-oriented software
 
-</div>
+## Currently
+
+- Reproducing and studying ML research papers
+- Working on NLP and retrieval-based systems
+- Building a C compiler from scratch
+- Exploring the intersection of ML and systems
+
+## Links
+
+[linkedin](https://www.linkedin.com/in/neha-varadharajan-2842a72a6/) · [email](mailto:nehavaradharajan11@gmail.com)
